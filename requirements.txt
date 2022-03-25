@@ -1,0 +1,6 @@
+bcrypt==3.2.0
+pyjwt==2.3.0
+mysql-connector-python==8.0.28
+fastapi==0.75.0
+uvicorn==0.17.6
+cryptography==2.0
